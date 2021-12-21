@@ -17,7 +17,7 @@ To get started, clone this repo and follow these commands:
 
 ### What I did?
 
-✅ deployed your own custom ERC-20 token <br />
-✅ deployed your own ERC-1155 NFT people can mint to join your DAO. <br />
-✅ deployed your own governance contract + treasury. <br />
+✅ deployed my own custom ERC-20 $SCAM token <br />
+✅ deployed my own ERC-1155 NFT people can mint to join your DAO. <br />
+✅ deployed my own governance contract + treasury. <br />
 ✅ built a dapp that lets people connect their wallet, get an NFT, see a DAO Dashboard where they can see other members + actually vote on proposals that are executed directly by your governance contract.<br />
